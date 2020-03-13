@@ -1,0 +1,7 @@
+Este es el primer archivo
+
+del curso de Git and Guthub
+
+aprendiendo a manipular archivos
+
+de una manera diferente.
