@@ -4,6 +4,12 @@ PODER JUNTAR DOS ARCHIVOS
 
 DE RAMAS DISTINTAS
 
+agregando cambios
+
+en la rama master
+
+para hacer un nuevo proyecto.
+
 USANDO GIT MERGE
 
 PRUEBA 1
