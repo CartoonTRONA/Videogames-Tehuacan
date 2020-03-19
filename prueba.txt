@@ -7,3 +7,9 @@ DE RAMAS DISTINTAS
 USANDO GIT MERGE
 
 PRUEBA 1
+
+iniciando los cambios 
+
+para la nueva rama 
+
+llamada pruebas.
