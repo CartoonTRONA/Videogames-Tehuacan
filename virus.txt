@@ -1,9 +1,11 @@
-crearemos un conflicto
+haremos un fallo
 
 en este archivo
 
 para poder solucionarlo
 
-y entender como usar esto
+y poder entenderlo
 
 en futuras ocasiones.
+
+primer intento
