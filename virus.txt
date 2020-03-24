@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ocasionando un problrmas
+=======
+haciendo un fallo
+>>>>>>> errores
 
 en este archivo
 
@@ -6,6 +10,6 @@ para poder solucionarlo
 
 de la vida
 
-en futuras ocasiones.
+primer cambio de rrrores
 
 primer intento
