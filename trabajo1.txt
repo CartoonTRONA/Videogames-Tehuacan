@@ -1,11 +1,21 @@
 Header
 
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+empezando a trabajar 
+
+en el header del proyecto
+
+para poder enviarlo
+
+a github
+>>>>>>> footer
 
 
 Footer
