@@ -1,6 +1,7 @@
 Header
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -8,6 +9,8 @@ Header
 
 
 =======
+=======
+>>>>>>> 30f80fe39c810a73d1f29ecb70476e82613b4c5c
 empezando a trabajar 
 
 en el header del proyecto
@@ -15,7 +18,21 @@ en el header del proyecto
 para poder enviarlo
 
 a github
+<<<<<<< HEAD
 >>>>>>> footer
 
 
 Footer
+=======
+
+
+Footer
+
+segundo cambio 
+
+al archivo
+
+agregando contenido
+
+para nuestro proyecto.
+>>>>>>> 30f80fe39c810a73d1f29ecb70476e82613b4c5c
