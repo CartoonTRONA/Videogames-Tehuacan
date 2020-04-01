@@ -2,4 +2,12 @@ apex legends esta chido
 
 sera por que solo tiene 
 
+<<<<<<< HEAD
 multijugador.
+=======
+multijugador.
+
+no lo se aun
+
+pero esta chido.
+>>>>>>> cabecera
