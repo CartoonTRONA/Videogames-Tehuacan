@@ -1,8 +1,15 @@
 encabezado
+<<<<<<< HEAD
 
 
 
 
+=======
+Tercer intento
+si es que mi memoria no me falla
+de tratar de manipular
+el archivo compartido
+>>>>>>> encabezado
 
 
 
