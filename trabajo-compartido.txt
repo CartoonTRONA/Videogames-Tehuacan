@@ -1,17 +1,32 @@
 encabezado
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
 
 =======
+=======
+>>>>>>> complemento
 Tercer intento
 si es que mi memoria no me falla
 de tratar de manipular
 el archivo compartido
+<<<<<<< HEAD
 >>>>>>> encabezado
+=======
+>>>>>>> complemento
 
 
 
 
+<<<<<<< HEAD
 complemento
+=======
+complemento
+
+continuo agregando texto
+al archivo
+para su uso
+en nuestro nuevo proyecto
+>>>>>>> complemento
