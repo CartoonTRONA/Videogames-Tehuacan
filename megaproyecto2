@@ -6,6 +6,7 @@ para finalizar esta sesion ya.
 
 Empieza primera parte.
 
+<<<<<<< HEAD  
 <<<<<<< HEAD
 
 
@@ -14,11 +15,14 @@ Empieza primera parte.
 
 Empieza segunda parte.
 =======
+=======
+>>>>>>> titulo
 agregando el contenido
 
 para finalizar este trabajo
 
 
+<<<<<<< HEAD
 Empieza segunda parte
 
 al parecer usamos vim
@@ -27,3 +31,6 @@ para poder manipular el archivo
 
 traido desde github.
 >>>>>>> 7dbe8bbef2f5082455433146becdb1d78b897dc6
+=======
+Empieza segunda parte.
+>>>>>>> titulo
